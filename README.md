@@ -32,9 +32,9 @@ If you want to reach out, feel free to drop me an email: **[ekyamuhammad@gmail.c
 
 ### 🌐 Connect with me
 <p align="center">
-  <a href="[https://linkedin.com/in/ekya-muhammad-701729288](https://www.linkedin.com/in/ekya-muhammad-701729288/)" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="35" height="35"/></a>
+  <a href="https://www.linkedin.com/in/ekya-muhammad-701729288/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="35" height="35"/></a>
   <a href="https://instagram.com/ekyamuhammad" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="35" height="35"/></a>
-  <a href="[https://www.youtube.com/c/ekyamuhammad3850](http://www.youtube.com/@ekyamuhammad3850)" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="35" height="35"/></a>
+  <a href="https://www.youtube.com/@ekyamuhammad3850" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="35" height="35"/></a>
 </p>
 
 ---
