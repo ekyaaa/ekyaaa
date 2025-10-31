@@ -26,6 +26,7 @@ let ekya = {
   },
   currentFocus: "Building scalable mobile & web applications"
 };
+```
 
 ---
 
