@@ -14,18 +14,21 @@
 
 ## 🙋‍♂️ About Me
 
-```dart
-dynamic ekya = {
-  "code": ["Dart", "PHP", "JavaScript", "Python"],
-  "technologies": {
-    "mobileApp": ["Flutter"],
-    "backEnd": ["Laravel", "FastAPI", "Firebase"],
-    "frontEnd": ["React", "Inertia.js"],
-    "databases": ["MongoDB", "MariaDB", "MySQL"],
-    "design": ["Figma", "TailwindCSS", "Bootstrap"]
+```javascript
+let ekya = {
+  code: ["Dart", "PHP", "JavaScript", "Python"],
+  technologies: {
+    mobileApp: ["Flutter"],
+    backEnd: ["Laravel", "FastAPI", "Firebase"],
+    frontEnd: ["React", "Inertia.js"],
+    databases: ["MongoDB", "MariaDB", "MySQL"],
+    design: ["Figma", "TailwindCSS", "Bootstrap"]
   },
-  "currentFocus": "Building scalable mobile & web applications",
+  currentFocus: "Building scalable mobile & web applications"
 };
+
+```
+
 
 ```
 
