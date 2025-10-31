@@ -107,7 +107,7 @@ dynamic ekya = {
 
 ---
 
-### 💡 A Thought Beyond Code
+## 💡 A Thought Beyond Code
 
 <div align="center">
 
