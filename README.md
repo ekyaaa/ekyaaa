@@ -107,9 +107,9 @@ dynamic ekya = {
 
 ---
 
-<div align="center">
-
 ### 💡 A Thought Beyond Code
+
+<div align="center">
 
 **✨ "The best among people are those who bring benefit to others." ✨**  
 *— Prophet Muhammad ﷺ (Hadith, al-Muʿjam al-Awsaṭ 5787, al-Ṭabarānī)*
