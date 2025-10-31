@@ -109,13 +109,11 @@ dynamic ekya = {
 
 <div align="center">
 
-### 💭 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+### 💡 A Thought Beyond Code
 
 **✨ "The best among people are those who bring benefit to others." ✨**  
 *— Prophet Muhammad ﷺ (Hadith, al-Muʿjam al-Awsaṭ 5787, al-Ṭabarānī)*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
 </div>
