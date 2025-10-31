@@ -1,53 +1,121 @@
-<h1 align="center">👋 Hello sir, I'm Ekya</h1>
-<h3 align="center">Junior Flutter & Laravel Developer | Code Enthusiast</h3>
+<div align="center">
+
+# 👨‍💻 Ekya Muhammad
+
+### 🚀 Junior Flutter & Laravel Developer | Code Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Flutter+%26+Laravel+Developer;Always+learning+new+things;Let's+build+something+amazing!" alt="Typing SVG" />
+
+[![Profile Views](https://komarev.com/ghpvc/?username=ekyaaa&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/ekyaaa)
+
+</div>
 
 ---
 
-### 📫 Contact Me
-If you want to reach out, feel free to drop me an email: **[ekyamuhammad@gmail.com](mailto:ekyamuhammad@gmail.com)**
+## 🙋‍♂️ About Me
+
+```dart
+dynamic ekya = {
+  "code": ["Dart", "PHP", "JavaScript", "Python"],
+  "technologies": {
+    "mobileApp": ["Flutter"],
+    "backEnd": ["Laravel", "FastAPI", "Firebase"],
+    "frontEnd": ["React", "Inertia.js"],
+    "databases": ["MongoDB", "MariaDB", "MySQL"],
+    "design": ["Figma", "TailwindCSS", "Bootstrap"]
+  },
+  "currentFocus": "Building scalable mobile & web applications",
+};
+
+```
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/958072?s=200&v=4" alt="Laravel" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
-</p>
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+### 🌐 Backend Development
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Inertia](https://img.shields.io/badge/inertia-%239553E9.svg?style=for-the-badge&logo=inertia&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%3338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🛠️ Tools & Others
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 ---
 
-### 🌐 Connect with me
-<p align="center">
-  <a href="https://www.linkedin.com/in/ekya-muhammad-701729288/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="35" height="35"/></a>
-  <a href="https://instagram.com/ekyamuhammad" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="35" height="35"/></a>
-  <a href="https://www.youtube.com/@ekyamuhammad3850" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="35" height="35"/></a>
-</p>
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ekyaaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ekyaaa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ekyaaa&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ekyaaa&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
 
 ---
 
-### 📊 GitHub Stats
+## 🏆 GitHub Trophies
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ekyaaa&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<div align="center">
   
-  <br>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ekyaaa&" alt="GitHub Streak" />
-</p>
+![](https://github-profile-trophy.vercel.app/?username=ekyaaa&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
+
+</div>
 
 ---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ekya-muhammad-701729288/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ekyamuhammad)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@ekyamuhammad3850)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ekyamuhammad@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+**✨ "The best among people are those who bring benefit to others." ✨**  
+*— Prophet Muhammad ﷺ (Hadith, al-Muʿjam al-Awsaṭ 5787, al-Ṭabarānī)*
+
+</div>
