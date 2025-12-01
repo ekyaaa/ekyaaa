@@ -2,7 +2,7 @@
 
 # 👨‍💻 Ekya Muhammad
 
-### 🚀 Junior Flutter & Laravel Developer | Code Enthusiast
+### 🚀 Junior Flutter & Backend Developer | Code Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Flutter+%26+Laravel+Developer;Always+learning+new+things;Let's+build+something+amazing!" alt="Typing SVG" />
 
