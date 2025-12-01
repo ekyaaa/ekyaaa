@@ -21,7 +21,7 @@ let ekya = {
     mobileApp: ["Flutter"],
     backEnd: ["Laravel", "FastAPI", "Firebase"],
     frontEnd: ["React", "Inertia.js"],
-    databases: ["MongoDB", "MariaDB", "MySQL"],
+    databases: ["PostgreSQL", "MongoDB", "MariaDB", "MySQL", "Redis"],
     design: ["Figma", "TailwindCSS", "Bootstrap"]
   },
   currentFocus: "Building scalable mobile & web applications"
