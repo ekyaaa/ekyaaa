@@ -54,6 +54,10 @@ let ekya = {
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%3338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+### 🧩 Fullstack Web
+![Django](https://img.shields.io/badge/django--fullstack-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel--fullstack-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+
 ### 🗄️ Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
